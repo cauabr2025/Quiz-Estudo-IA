@@ -14,13 +14,13 @@ Basicamente, é um professor particular no meu terminal:
 
 🛠️ O que eu usei?
 
--   Python (A mágica toda)
+-   Python (A cabeça do projeto)
 -   Groq API (Para acessar o modelo *Llama 3* de graça e super rápido)
 -   Dotenv (Para esconder minhas chaves de API com segurança)
 -   JSON (Para estruturar os dados que vêm da IA)
 
 💻 Quer testar?
-BORA BILL! 
+
 1.  Clone o projeto:
     bash
     git clone [https://github.com/cauabr2025/Quiz-Estudo.git](https://github.com/cauabr2025/Quiz-Estudo.git)
