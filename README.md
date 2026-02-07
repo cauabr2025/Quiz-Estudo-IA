@@ -9,7 +9,7 @@ Tava estudando e criei este projeto para transformar minha rotina de revisão em
 Basicamente, é um professor particular no meu terminal:
 
 1.  Perguntas Infinitas: Eu digito um tema (ex: "Python", "Direito Constitucional", "Inglês") e ele gera um quiz inédito na hora.
-2.  Correção Instantânea: Naõ precisa esperar. Errou? O sistema avisa na hora.
+2.  Correção Instantânea: Não precisa esperar. Errou? O sistema avisa na hora.
 3.  Diagnóstico Inteligente: Se eu erro, ele não só mostra a resposta certa, mas gera uma explicação do conceito para eu aprender e não errar mais.
 
 🛠️ O que eu usei?
